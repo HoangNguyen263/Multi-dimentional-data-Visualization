@@ -14,8 +14,7 @@ build/
 venv/
 env/
 
-# Output figures (optional – remove this line if you want to commit outputs)
-output/
+# Output figures
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
